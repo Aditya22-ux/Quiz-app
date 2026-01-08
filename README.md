@@ -1,1 +1,3 @@
-Quiz
+# Quiz App
+
+This is a Simple Quiz App
